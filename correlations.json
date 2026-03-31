@@ -1,0 +1,39 @@
+{
+  "tracking_pixel:facebook_pixel:1263319854288554": {
+    "artifact_type": "tracking_pixel",
+    "artifact_value": "facebook_pixel:1263319854288554",
+    "pages": [
+      "https://au.gymshark.com",
+      "https://ch.gymshark.com",
+      "https://dk.gymshark.com",
+      "https://eu.gymshark.com",
+      "https://fi.gymshark.com",
+      "https://gymshark.com",
+      "https://no.gymshark.com",
+      "https://se.gymshark.com",
+      "https://uk.gymshark.com"
+    ],
+    "page_count": 9
+  },
+  "tracking_pixel:facebook_pixel:293240424340622": {
+    "artifact_type": "tracking_pixel",
+    "artifact_value": "facebook_pixel:293240424340622",
+    "pages": [
+      "https://ca.gymshark.com",
+      "https://de.gymshark.com",
+      "https://fr.gymshark.com",
+      "https://nl.gymshark.com",
+      "https://www.gymshark.com"
+    ],
+    "page_count": 5
+  },
+  "tracking_pixel:tiktok_pixel:tiktok_pixel": {
+    "artifact_type": "tracking_pixel",
+    "artifact_value": "tiktok_pixel:tiktok_pixel",
+    "pages": [
+      "https://ca.gymshark.com",
+      "https://careers.gymshark.com"
+    ],
+    "page_count": 2
+  }
+}

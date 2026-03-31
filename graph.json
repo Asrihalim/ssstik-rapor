@@ -1,0 +1,4814 @@
+{
+  "nodes": [
+    {
+      "id": "eeaa70ec-ebc",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://www.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "8ac9d7b5-099",
+      "type": "meta_tag",
+      "key": "og:site_name",
+      "value": "Gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "5c1dbc7d-e60",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Gymshark Official Store - Gym Clothes &amp; Workout Clothes",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "b9dfcd4c-bd8",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Unlock your full potential with our game-changing workout clothes. Shop gym clothing for the gym, running &amp; everything in-between. Free delivery on orders over $75.",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "e8196435-2ae",
+      "type": "meta_tag",
+      "key": "og:type",
+      "value": "website",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "b56565e3-b5c",
+      "type": "meta_tag",
+      "key": "og:image",
+      "value": "http://cdn.shopify.com/s/files/1/0098/8822/files/gymshark_social_banner_1200x1200.jpg?v=1549554764",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "35af4bfc-5ae",
+      "type": "meta_tag",
+      "key": "og:image:secure_url",
+      "value": "https://cdn.shopify.com/s/files/1/0098/8822/files/gymshark_social_banner_1200x1200.jpg?v=1549554764",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "b60f56fb-990",
+      "type": "meta_tag",
+      "key": "twitter:site",
+      "value": "@",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "dc001adb-dfc",
+      "type": "meta_tag",
+      "key": "twitter:card",
+      "value": "summary_large_image",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "7d538ecf-1e0",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://au.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "466c00ce-3b5",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ca.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "ce587e07-fe6",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://dk.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "d0407d5d-9cd",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://fi.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "adac7895-652",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://fr.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "dd81f58a-03d",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://de.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "87f3dabc-32f",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://nl.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "e705d915-64b",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://no.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "320a9522-a0e",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://se.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "36543ed8-b36",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ch.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "a8278be2-b61",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://uk.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "2dced681-b4c",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://www.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "99ad864c-b8a",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://eu.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "9788f93a-9be",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://eu.gymshark.com/es-ES",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "fa040aac-c1d",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://row.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "0ef0f47b-038",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://www.gymshark.com/es-US",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "52e448b7-4ec",
+      "type": "infrastructure",
+      "key": "preconnect",
+      "value": "cdn.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "42880f74-8d3",
+      "type": "infrastructure",
+      "key": "preconnect",
+      "value": "cdn.shopify.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "78fa493d-e9a",
+      "type": "infrastructure",
+      "key": "preconnect",
+      "value": "images.ctfassets.net",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "b4360611-5dc",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://www.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "8ef502d4-974",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://www.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikiped",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "3493945f-6e0",
+      "type": "social_link",
+      "key": "schema_sameas",
+      "value": "https://www.facebook.com/Gymshark/",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "47cacda2-101",
+      "type": "social_link",
+      "key": "schema_sameas",
+      "value": "https://twitter.com/Gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "fc54c003-a95",
+      "type": "social_link",
+      "key": "schema_sameas",
+      "value": "https://www.instagram.com/gymshark/",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "2fc6083b-5d3",
+      "type": "social_link",
+      "key": "schema_sameas",
+      "value": "http://www.youtube.com/@gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "0e6099d4-f14",
+      "type": "social_link",
+      "key": "schema_sameas",
+      "value": "https://uk.linkedin.com/company/gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "990f9cc6-96e",
+      "type": "social_link",
+      "key": "schema_sameas",
+      "value": "https://en.wikipedia.org/wiki/Gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "14d2b913-715",
+      "type": "social_link",
+      "key": "schema_sameas",
+      "value": "pinterest.co.uk/gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "b3c260df-251",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "www.googletagmanager.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "4fb081fc-8ea",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "connect.facebook.net",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "7a469ba0-cbd",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "jssdkcdns.mparticle.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "268a6ae6-977",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "cdn.cookielaw.org",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "10098a8f-48c",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=www.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "940878c0-29f",
+      "type": "tracking_pixel",
+      "key": "google_tag_manager",
+      "value": "GTM-WQXVFFG",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "de94d1e9-70c",
+      "type": "vendor",
+      "key": "dynamic_yield",
+      "value": "Dynamic Yield",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "8f6d5683-969",
+      "type": "vendor",
+      "key": "mparticle",
+      "value": "mParticle",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "10eb808d-c70",
+      "type": "vendor",
+      "key": "shopify",
+      "value": "Shopify",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "24d3994b-8d2",
+      "type": "vendor",
+      "key": "contentful",
+      "value": "Contentful",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "b7bffe6f-3ac",
+      "type": "vendor",
+      "key": "onetrust",
+      "value": "OneTrust",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "2c9f7f1a-1d8",
+      "type": "vendor",
+      "key": "stylitics",
+      "value": "Stylitics",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "1c5e3e57-52f",
+      "type": "vendor",
+      "key": "amazon_aws",
+      "value": "AWS",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "0972e1ec-a0b",
+      "type": "infrastructure",
+      "key": "shopify_store_id",
+      "value": "0098",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "6bb3f2ec-6ff",
+      "type": "infrastructure",
+      "key": "cdn",
+      "value": "shopify_cdn",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "81aff316-96a",
+      "type": "infrastructure",
+      "key": "framework",
+      "value": "Next.js",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "1f5cd266-4d2",
+      "type": "infrastructure",
+      "key": "cms",
+      "value": "Contentful",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "c45c54e4-f5e",
+      "type": "infrastructure",
+      "key": "ecommerce",
+      "value": "Shopify",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "c1e2df30-b41",
+      "type": "infrastructure",
+      "key": "waf",
+      "value": "AWS WAF",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "a5570041-ab9",
+      "type": "framework",
+      "key": "angular",
+      "value": "angular",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "c33bf007-297",
+      "type": "framework",
+      "key": "gtag",
+      "value": "gtag",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "2959b0a1-d71",
+      "type": "framework",
+      "key": "gtm",
+      "value": "gtm",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "329b49cb-c2a",
+      "type": "framework",
+      "key": "nextjs",
+      "value": "nextjs",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "c583446d-ae9",
+      "type": "framework",
+      "key": "shopify",
+      "value": "shopify",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "13dd7dbc-ae7",
+      "type": "social_link",
+      "key": "facebook",
+      "value": "https://www.facebook.com/Gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "21ade310-901",
+      "type": "social_link",
+      "key": "facebook",
+      "value": "https://www.facebook.com/GymShark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "4994733b-34c",
+      "type": "social_link",
+      "key": "twitter",
+      "value": "https://www.twitter.com/gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "6e2b0e82-593",
+      "type": "social_link",
+      "key": "instagram",
+      "value": "https://www.instagram.com/gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "1bd84eb8-491",
+      "type": "social_link",
+      "key": "youtube",
+      "value": "https://www.youtube.com/user/GymSharkTV",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "01bd0a91-c80",
+      "type": "social_link",
+      "key": "tiktok",
+      "value": "https://www.tiktok.com/@gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "cdcfb2d9-0b3",
+      "type": "social_link",
+      "key": "linkedin",
+      "value": "linkedin.com/company/gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "4172f3e7-f0b",
+      "type": "social_link",
+      "key": "pinterest",
+      "value": "https://www.pinterest.com/gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "057f4d79-4fe",
+      "type": "social_link",
+      "key": "discord",
+      "value": "https://discord.gg/gymshark",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.85
+    },
+    {
+      "id": "b7fd7f73-8fc",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "fr.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "d155a27b-99d",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "ca.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "36685831-d75",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "cdn.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "27ed1186-5b1",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "ch.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "febcd995-b39",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "dk.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "d54db23e-3d9",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "support.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "b87ef521-48a",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "fi.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "6cb0f13a-a17",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "eu.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "b446c438-27d",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "careers.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "3d19e8e7-b79",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "se.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "b1117b41-a63",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "de.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "7d34fb50-838",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "nl.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "fcf9dde1-34b",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "gdpr.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "340bb0ec-d0f",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "us.checkout.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "14b155bb-cdb",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "uk.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "1cd4419f-f69",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "au.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "a70bf8bc-1fc",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "www.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "f1ddb273-fd2",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "no.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "32a036ec-c5d",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "row.gymshark.com",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "9ecf40fb-677",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_shopify_essential",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "ef246dd7-60d",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "localization",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "b8764848-411",
+      "type": "cookie",
+      "key": "functional",
+      "value": "cart_currency",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "68298d74-dc8",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_shopify_y",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "ed3e12c7-edf",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_shopify_s",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "7274cd60-c7c",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_shopify_analytics",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "1e105e44-bb1",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_shopify_marketing",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "588a314d-71f",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "gs-experiment-id",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "b33d9ac0-dfb",
+      "type": "cookie",
+      "key": "functional",
+      "value": "styliticsWidgetSession",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "cf6925a8-fb3",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_dd_s",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "f3c5c1fd-285",
+      "type": "cookie",
+      "key": "functional",
+      "value": "_dyjsession",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "a792db40-486",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_dy_soct",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "3b65e9d4-156",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "mprtcl-v4_98FE4316",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "3a63ed08-3ae",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_ALGOLIA",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "fc96f4ea-3fc",
+      "type": "vendor",
+      "key": "algolia",
+      "value": "Algolia",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "5c985695-b67",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dy_soct",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "18e04da2-83f",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "mprtcl-tos-98FE4316",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "03e550ad-356",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "lastExternalReferrerTime",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "9f11572e-de0",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "mprtcl-v4_98FE4316-id-cache",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "87fa921e-c7d",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "braze-feature-store",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "0c142e6d-0b3",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dy_csc",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "4a62980b-ce1",
+      "type": "local_storage",
+      "key": "functional",
+      "value": "StyliticsSessionID",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "1457e23c-967",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "lastExternalReferrer",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "5e864b3e-d9c",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "mParticle-engagement-count",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "42850249-f6e",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "product-store",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "37c37921-f45",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "algoliasearch-client-js-4.19.1-2DEAES0CUO",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "5f142509-b09",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "mprtcl-v4_98FE4316-batches",
+      "page": "https://gymshark.com",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "01eac8ed-e57",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://au.gymshark.com",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "3d3f4af0-b73",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Gymshark Official Store - Gym Clothes &amp; Workout Clothes - Gymshark",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "6918f22d-f3e",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Shop Gymshark men",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "9ac1960f-e61",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://au.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "250d4dd6-112",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://au.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "a3b47cda-e85",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=au.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "1e5a2e8f-434",
+      "type": "tracking_pixel",
+      "key": "google_analytics_4",
+      "value": "G-PQJ0N2K1QF",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "145d492b-67c",
+      "type": "ad_account",
+      "key": "google_ads",
+      "value": "933026149",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "89177e0e-bda",
+      "type": "ad_account",
+      "key": "google_ads",
+      "value": "829046539",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "30edb864-c76",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "datr",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "14a987a9-f19",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "sb",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "6924fbcb-b6d",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "wd",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "be9bcb65-eba",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "guest_id_marketing",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "8cf4bdf3-e99",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "guest_id_ads",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "654eebf2-86d",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "personalization_id",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "3b297d95-458",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "guest_id",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "3974939b-1e9",
+      "type": "cookie",
+      "key": "security",
+      "value": "__cf_bm",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "ddb39a7e-796",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "gt",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "1bad8e7b-984",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "__cuid",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "81c76d6f-732",
+      "type": "cookie",
+      "key": "functional",
+      "value": "csrftoken",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "07deed40-1ad",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ig_did",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "e0ea84a1-109",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ig_nrcb",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "21446204-c55",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "mid",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "14113ca7-107",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "GPS",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "5a3c37cf-3a9",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "YSC",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "f77db0db-af7",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "VISITOR_INFO1_LIVE",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "be7afa1c-5b4",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "VISITOR_PRIVACY_METADATA",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "903f4f42-9e7",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "PREF",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "cf9ee0f8-ae8",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "__Secure-YNID",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "de2a6a00-2a9",
+      "type": "cookie",
+      "key": "functional",
+      "value": "__Secure-ROLLOUT_TOKEN",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "05f3cf81-8bd",
+      "type": "cookie",
+      "key": "functional",
+      "value": "JSESSIONID",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "2ffea185-7e9",
+      "type": "cookie",
+      "key": "functional",
+      "value": "lang",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "de006b81-59e",
+      "type": "cookie",
+      "key": "consent",
+      "value": "bcookie",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "d4e4330a-f8e",
+      "type": "cookie",
+      "key": "consent",
+      "value": "bscookie",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "06209bab-adc",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "lidc",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "7f5fef69-3b5",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "WMF-Last-Access",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "65a5f831-fb6",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "WMF-Last-Access-Global",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "00f3aee9-887",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "WMF-DP",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "bf076e46-e7a",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "GeoIP",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "8906ea96-d6f",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "NetworkProbeLimit",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "66cb46e4-cd7",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "WMF-Uniq",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "08a7ecb7-3d1",
+      "type": "cookie",
+      "key": "functional",
+      "value": "enwikimwuser-sessionId",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "bbc9cb47-345",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_routing_id",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "795e977f-c3b",
+      "type": "cookie",
+      "key": "advertising",
+      "value": "_pinterest_sess",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "2e109e44-5a1",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_auth",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "f55cfa1e-6ea",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ps_l",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "e712f23c-d02",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ps_n",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "afebf99e-f98",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "g_state",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "a828ccde-ddf",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "IDE",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "560f5762-df0",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttwid",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "9ac9911c-311",
+      "type": "cookie",
+      "key": "functional",
+      "value": "tt_csrf_token",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "1fa0eb50-c06",
+      "type": "cookie",
+      "key": "functional",
+      "value": "tt_chain_token",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "96f95261-4e7",
+      "type": "cookie",
+      "key": "functional",
+      "value": "msToken",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "eafb1d8e-c01",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "tiktok_webapp_theme_source",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "03e3d324-304",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "tiktok_webapp_theme",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "57cb04ae-809",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_pxvid",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "b6746da2-f0d",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_px3",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "d2c42ec2-d62",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "pxcts",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "80ec509e-f2a",
+      "type": "cookie",
+      "key": "functional",
+      "value": "sessionFunnelEventLogged",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "63eb21ff-658",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "NID",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "c67184b8-c38",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "__dcfduid",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "42191ff3-7b6",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "__sdcfduid",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "b2590c0b-031",
+      "type": "cookie",
+      "key": "security",
+      "value": "_cfuvid",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "f1580672-6be",
+      "type": "cookie",
+      "key": "advertising",
+      "value": "_gcl_au",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "db8d9a2b-f13",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "_ga",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "150fab4f-dde",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "_ga_PQJ0N2K1QF",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "b3702ec4-8a6",
+      "type": "cookie",
+      "key": "consent",
+      "value": "OptanonConsent",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "770df741-de3",
+      "type": "local_storage",
+      "key": "advertising",
+      "value": "_gcl_ls",
+      "page": "https://au.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "97bdd23f-674",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ca.gymshark.com",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "9e195810-865",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Unlock your full potential with Gymshark workout clothes. Shop Men",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "39cb4ad1-b59",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://ca.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "98c89ba6-9f3",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://ca.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d6f4f210-d4d",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "s.pinimg.com",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "2229bbf8-48a",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "s.axon.ai",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "375b5305-273",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "c.albss.com",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "1db032b2-5d3",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "analytics.tiktok.com",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "08c22847-a41",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "bat.bing.com",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "343b518a-f9d",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "widget.intercom.io",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "7ef76cd5-1db",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "res4.applovin.com",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "3677dd54-91e",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/293240424340622?v=2.9.285&amp;r=stable&amp;domain=ca.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157%2C217%2C216%2C211%2C213%2C214%2C215%2C212%2C200%2C210%2C182%2C179%2C180%2C174%2C178%2C181%2C177%2C172%2C303%2C266%2C185%2C204%2C173%2C171%2C223%2C195%2C165%2C166%2C161%2C167%2C164%2C162%2C163%2C160%2C158%2C169%2C170%2C168%2C253%2C302%2C183\" async=\"\"></script><script src=\"https://connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=ca.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "70ae6ec9-92a",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/en_US/fbevents.js",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "baccd478-00e",
+      "type": "tracking_pixel",
+      "key": "tiktok_pixel",
+      "value": "analytics.tiktok.com/i18n/pixel",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "6f19b227-e3a",
+      "type": "tracking_pixel",
+      "key": "pinterest_tag",
+      "value": "s.pinimg.com/ct/",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "303793ef-496",
+      "type": "tracking_pixel",
+      "key": "bing_uet",
+      "value": "bat.bing.com/bat.js",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "f0ad1cca-9da",
+      "type": "ad_account",
+      "key": "google_ads",
+      "value": "11110630210",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "e2b083a5-1c9",
+      "type": "ad_account",
+      "key": "google_doubleclick",
+      "value": "12566443",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "81a3e6ca-571",
+      "type": "ad_account",
+      "key": "facebook_ads",
+      "value": "293240424340622",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "74c25192-204",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C9BAFCJC77U9N0P9DF70",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "5fcb6f9d-6d3",
+      "type": "ad_account",
+      "key": "axon_ai",
+      "value": "s.axon.ai/pixel",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "2ffc7c76-a1e",
+      "type": "vendor",
+      "key": "intercom",
+      "value": "Intercom",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "875ccb0d-40e",
+      "type": "vendor",
+      "key": "applovin",
+      "value": "AppLovin",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "e89908b2-039",
+      "type": "social_link",
+      "key": "facebook",
+      "value": "https://www.facebook.com/tr",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "34e6e289-145",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_ttp",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "a4db296d-870",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "_fbp",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "893779c1-eff",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_axwrt",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "005432a7-27a",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "axcrt",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "6ea61480-3fa",
+      "type": "cookie",
+      "key": "consent",
+      "value": "OptanonAlertBoxClosed",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "563cffdf-4b3",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "mParticleCustomFlags",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "553b5819-10a",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ax_visitor",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "77bb0065-5a7",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_applovin_pixel_version",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "28b71ebe-3b8",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "intercom.intercom-state-r2v7ynki",
+      "page": "https://ca.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "f8dd11a3-7c6",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://dk.gymshark.com",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b94a3b9d-86a",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://dk.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "efd9688a-db6",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://dk.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "fa3825ba-a16",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=dk.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "f792a4aa-1e4",
+      "type": "ad_account",
+      "key": "google_doubleclick",
+      "value": "4",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "8d530939-a0b",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "intercom-id-r2v7ynki",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "b4706b70-9b6",
+      "type": "cookie",
+      "key": "functional",
+      "value": "intercom-session-r2v7ynki",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "42f7443e-e9d",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "intercom-device-id-r2v7ynki",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "61894dc4-f36",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "_pin_unauth",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "04f885ae-9a6",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ar_debug",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "c6c8101a-c73",
+      "type": "cookie",
+      "key": "advertising",
+      "value": "_tt_enable_cookie",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "954c58ab-604",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C9BAFCJC77U9N0P9DF70",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "210648b5-faa",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "7b0bb007-f28",
+      "type": "cookie",
+      "key": "advertising",
+      "value": "_uetsid",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "e9de9a29-7f0",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "_uetvid",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "4c7c7809-e66",
+      "type": "cookie",
+      "key": "advertising",
+      "value": "_pinterest_ct_ua",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "ed2c9b2e-f6f",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "MUID",
+      "page": "https://dk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "79421e14-db0",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://fi.gymshark.com",
+      "page": "https://fi.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b976bf57-ed7",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://fi.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://fi.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "9db43672-8ea",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://fi.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://fi.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "6b3c213c-5ed",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=fi.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://fi.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "a98be7f3-48c",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C64G4JSGJNOBIGP7ATP0",
+      "page": "https://fi.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "a0e97d4b-0d2",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C64G4JSGJNOBIGP7ATP0",
+      "page": "https://fi.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "1a0701c4-d14",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://fr.gymshark.com",
+      "page": "https://fr.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "65ee6335-969",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Vêtements &amp; Tenues de Sport | Magasin Officiel Gymshark",
+      "page": "https://fr.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b95fcb16-4bf",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Découvrez les tenues de sport Gymshark pour homme et femme : qualité durable, confort optimal et coupes parfaites. We Do Gym. Livraison gratuite dès 59 €.",
+      "page": "https://fr.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "8c98d616-c4f",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://fr.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://fr.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "8162fab6-b12",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://fr.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://fr.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "c7c9247c-cb9",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/293240424340622?v=2.9.285&amp;r=stable&amp;domain=fr.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157%2C217%2C216%2C211%2C213%2C214%2C215%2C212%2C200%2C210%2C182%2C179%2C180%2C174%2C178%2C181%2C177%2C172%2C303%2C266%2C185%2C204%2C173%2C171%2C223%2C195%2C165%2C166%2C161%2C167%2C164%2C162%2C163%2C160%2C158%2C169%2C170%2C168%2C253%2C302%2C183\" async=\"\"></script><script src=\"https://connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=fr.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://fr.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "f7f10800-38a",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C64LJ4SGJNOBIGP7BQ70",
+      "page": "https://fr.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "46955079-89e",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://de.gymshark.com",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "9d82573c-f9a",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Gymshark Offizieller Store | Sport Bekleidung | Gymshark",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "df560785-d79",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Kaufe Gymshark ausschließlich online. Genieße dauerhafte Qualität &amp; perfekt passende Kleidung. Kostenlose Rücksendungen &amp; kostenloser Versand von Sport Bekleidung mit einem Bestellwert über 55€",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "151a0522-8ce",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://de.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "2ed3c198-30d",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://de.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d2e40196-b57",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/293240424340622?v=2.9.285&amp;r=stable&amp;domain=de.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157%2C217%2C216%2C211%2C213%2C214%2C215%2C212%2C200%2C210%2C182%2C179%2C180%2C174%2C178%2C181%2C177%2C172%2C303%2C266%2C185%2C204%2C173%2C171%2C223%2C195%2C165%2C166%2C161%2C167%2C164%2C162%2C163%2C160%2C158%2C169%2C170%2C168%2C253%2C302%2C183\" async=\"\"></script><script src=\"https://connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=de.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "af954fbf-f92",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C2IILHVMU8QAJ3JEPIBG",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "6e05ab1b-aeb",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C64LJ4SGJNOBIGP7BQ70",
+      "page": "https://de.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "66a27f28-5be",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://nl.gymshark.com",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "f68852c1-fec",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Shop Gymshark sportkleding exclusief online. Ervaar ultiem comfort, goed zittende pasvormen en een betrouwbare kwaliteit. Gratis retourneren &amp; gratis verzending bij bestellingen vanaf €70.",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "f830be60-0d8",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://nl.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "151db4e5-b89",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://nl.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d4913bad-f72",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/293240424340622?v=2.9.285&amp;r=stable&amp;domain=nl.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157%2C217%2C216%2C211%2C213%2C214%2C215%2C212%2C200%2C210%2C182%2C179%2C180%2C174%2C178%2C181%2C177%2C172%2C303%2C266%2C185%2C204%2C173%2C171%2C223%2C195%2C165%2C166%2C161%2C167%2C164%2C162%2C163%2C160%2C158%2C169%2C170%2C168%2C253%2C302%2C183\" async=\"\"></script><script src=\"https://connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=nl.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "6cdd08a3-6fe",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C64LKHSGJNOBIGP7BQCG",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "6b4820bb-69d",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "central.gymshark.com",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "5443e4dd-f5c",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C2IILHVMU8QAJ3JEPIBG",
+      "page": "https://nl.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "be14d107-8a3",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://no.gymshark.com",
+      "page": "https://no.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "01374053-542",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://no.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://no.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "1f6f407d-334",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://no.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://no.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b3e7f667-40c",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=no.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://no.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "7f88ab3d-5ca",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C64LKHSGJNOBIGP7BQCG",
+      "page": "https://no.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "3a046de4-d7c",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://se.gymshark.com",
+      "page": "https://se.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ca7b9970-cda",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Gymshark Official Store | Gym Clothes &amp; Workout Wear | Gymshark",
+      "page": "https://se.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "f4dc5da7-64f",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://se.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://se.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "7ced3472-5c9",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://se.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://se.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "4edf5eee-e5e",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=se.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://se.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "8613b34a-27d",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ch.gymshark.com",
+      "page": "https://ch.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d5d036ef-3c1",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Kaufe Gymshark ausschließlich online. Genieße dauerhafte Qualität &amp; perfekt passende Kleidung. Kostenlose Rücksendungen &amp; kostenloser Versand von Sport Bekleidung mit einem Bestellwert über 100 CHF.",
+      "page": "https://ch.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "c0e5fea8-869",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://ch.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://ch.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "bbadf1d2-100",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://ch.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://ch.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "969f6943-7f5",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=ch.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://ch.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "503677f4-272",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "ch.shop.gymshark.com",
+      "page": "https://ch.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "fc3f4b16-1a1",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://uk.gymshark.com",
+      "page": "https://uk.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "8c68cfbc-453",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Unlock your full potential with our game-changing gym clothes. Shop workout clothes &amp; activewear for the gym, running &amp; everything in-between. Free delivery on orders over £49",
+      "page": "https://uk.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "5cbcaba5-520",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://uk.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://uk.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "6bfdcce9-1a2",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://uk.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://uk.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "5eaa52bc-a16",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=uk.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://uk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "02ddae9f-862",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C2IIM27MU8QAJ3JEPICG",
+      "page": "https://uk.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "70ec724d-4c6",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "c.amazon-adsystem.com",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "c4b67e05-277",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "www.redditstatic.com",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "cea93a0d-398",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "js.adsrvr.org",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "4394d863-88e",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/293240424340622?v=2.9.285&amp;r=stable&amp;domain=www.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157%2C217%2C216%2C211%2C213%2C214%2C215%2C212%2C200%2C210%2C182%2C179%2C180%2C174%2C178%2C181%2C177%2C172%2C303%2C266%2C185%2C204%2C173%2C171%2C223%2C195%2C165%2C166%2C161%2C167%2C164%2C162%2C163%2C160%2C158%2C169%2C170%2C168%2C253%2C302%2C183\" async=\"\"></script><script src=\"https://connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=www.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "14ddec95-919",
+      "type": "tracking_pixel",
+      "key": "reddit_pixel",
+      "value": "redditstatic.com/ads/pixel.js",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "90d9f5fa-cfe",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C8PM4U59481U83L7JFP0",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "b4a35e86-563",
+      "type": "ad_account",
+      "key": "amazon_dsp",
+      "value": "amazon-adsystem.com/aat/",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "19d295c4-5f9",
+      "type": "ad_account",
+      "key": "trade_desk",
+      "value": "js.adsrvr.org/up_loader",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "cb84a5b0-900",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C2IIL1IQV140ORDJ7O0G",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "287b1f8b-542",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "_rdt_uuid",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "4fd65756-9fe",
+      "type": "local_storage",
+      "key": "analytics",
+      "value": "_uetvid_exp",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "ac2d2c92-0ee",
+      "type": "local_storage",
+      "key": "advertising",
+      "value": "_uetsid",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "e77377b4-1da",
+      "type": "local_storage",
+      "key": "advertising",
+      "value": "_uetsid_exp",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "815940bb-e73",
+      "type": "local_storage",
+      "key": "analytics",
+      "value": "_uetvid",
+      "page": "https://www.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "05463c47-72b",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://eu.gymshark.com",
+      "page": "https://eu.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "c2604e59-dde",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://eu.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://eu.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "53e4ad53-08a",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://eu.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikipedi",
+      "page": "https://eu.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "66f34c9e-329",
+      "type": "tracking_pixel",
+      "key": "facebook_pixel",
+      "value": "connect.facebook.net/signals/config/1263319854288554?v=2.9.285&amp;r=stable&amp;domain=eu.gymshark.com&amp;hme=12c8cdc903a327d6c396005880a21a0a6c955fe6b6fb47b10c9022424ec9b3ee&amp;ex_m=101%2C194%2C143%2C22%2C69%2C70%2C136%2C65%2C64%2C11%2C151%2C87%2C16%2C130%2C123%2C72%2C75%2C129%2C148%2C153%2C8%2C4%2C5%2C7%2C6%2C3%2C88%2C98%2C154%2C159%2C208%2C59%2C175%2C176%2C52%2C264%2C30%2C71%2C220%2C219%2C218%2C23%2C32%2C100%2C58%2C10%2C60%2C94%2C95%2C96%2C102%2C126%2C31%2C29%2C128%2C125%2C124%2C144%2C73%2C147%2C145%2C146%2C47%2C57%2C119%2C15%2C150%2C42%2C251%2C252%2C250%2C26%2C27%2C28%2C45%2C137%2C74%2C109%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C89%2C93%2C107%2C135%2C138%2C43%2C108%2C24%2C21%2C115%2C66%2C35%2C140%2C139%2C141%2C132%2C131%2C25%2C34%2C56%2C106%2C149%2C67%2C17%2C142%2C111%2C78%2C63%2C19%2C82%2C83%2C112%2C81%2C33%2C280%2C201%2C190%2C191%2C189%2C283%2C275%2C49%2C202%2C104%2C127%2C77%2C117%2C51%2C44%2C46%2C110%2C116%2C122%2C55%2C61%2C50%2C53%2C97%2C152%2C1%2C120%2C14%2C118%2C12%2C2%2C54%2C90%2C62%2C114%2C86%2C85%2C155%2C156%2C91%2C92%2C9%2C121%2C99%2C48%2C133%2C84%2C76%2C68%2C113%2C103%2C40%2C134%2C0%2C79%2C36%2C105%2C13%2C157\" async=\"\"></script><script async=\"\" src=\"https://connect.facebook.net/en_US/fbevents.js",
+      "page": "https://eu.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "12ca5281-9d3",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ttcsid_C8PM4U59481U83L7JFP0",
+      "page": "https://eu.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "33ea0c35-784",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ad-id",
+      "page": "https://eu.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "92be9778-55d",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ad-privacy",
+      "page": "https://eu.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "97a32021-74f",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Tienda oficial de Gymshark - Ropa de gimnasio y ropa de entrenamiento",
+      "page": "https://eu.gymshark.com/es-ES",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "be714cea-271",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Desbloquea todo tu potencial con nuestra ropa de entrenamiento. Compra ropa para el gimnasio, para correr y todo lo demás. Envío gratuito para pedidos superiores a 75€.",
+      "page": "https://eu.gymshark.com/es-ES",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "fd2246c6-e67",
+      "type": "meta_tag",
+      "key": "canonical_url",
+      "value": "https://eu.gymshark.com/es-ES",
+      "page": "https://eu.gymshark.com/es-ES",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b1f42791-1f9",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C64LQ34GJNOBIGP7BRK0",
+      "page": "https://eu.gymshark.com/es-ES",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "df25a48c-b49",
+      "type": "framework",
+      "key": "vue",
+      "value": "vue",
+      "page": "https://eu.gymshark.com/es-ES",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "c50d8b7b-c79",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://row.gymshark.com",
+      "page": "https://row.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "33ad5cdd-f34",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"https://row.gymshark.com\", \"name\": \"Gymshark\"}",
+      "page": "https://row.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b9d1d7a0-2b4",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Gymshark\", \"url\": \"https://row.gymshark.com\", \"logo\": \"https://images.ctfassets.net/wl6q2in9o7k3/QN3GChnXFjOolrl6zNQBp/2b7eb612eea1364ed6afd9b1e3046ba2/Gymshark_Combi_Logo_Black.png?w=1664&amp;q=85&amp;fm=webp\", \"sameAs\": [\"https://www.facebook.com/Gymshark/\", \"https://twitter.com/Gymshark\", \"https://www.instagram.com/gymshark/\", \"http://www.youtube.com/@gymshark\", \"https://uk.linkedin.com/company/gymshark\", \"https://en.wikiped",
+      "page": "https://row.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "97237b23-ad5",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Ropa Deportiva y de Entrenamiento - Gymshark",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d0e9079a-acf",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Libera todo tu potencial con nuestra innovadora ropa de entrenamiento. Compra ropa deportiva para el gimnasio, correr y otras actividades. Envío gratuito por compras superiores a $75.",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b033b212-664",
+      "type": "meta_tag",
+      "key": "canonical_url",
+      "value": "https://www.gymshark.com/es-US",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "1148a9d8-b44",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_dyid",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "b3f60624-5af",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dyid",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "f54d9bb5-76c",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dy_att_exps",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "2492067d-458",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dy_tsrc",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "6e687ef8-140",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dyexps",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "b8f1fee6-023",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dyaud_page",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "9f049bda-811",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dycst",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "69c304ac-c63",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dyaud_nchc",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "cf5c7e00-89f",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "_dy_device",
+      "page": "https://www.gymshark.com/es-US",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "9fbb1909-dae",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Home | Gymshark Support",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "7fe48edf-9e4",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Gymshark Support",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ff051d35-5f8",
+      "type": "meta_tag",
+      "key": "og:image",
+      "value": "https://downloads.intercomcdn.com/i/o/r2v7ynki/686296/625f92d4dc863c67ac90b3250a1a/d83e91313f0866cb6367eb9fd3f433c9.jpg",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "1bb4571d-9d4",
+      "type": "meta_tag",
+      "key": "canonical_url",
+      "value": "https://support.gymshark.com/en/",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "42e021de-f71",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://support.gymshark.com/nl/",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "73aa000b-936",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://support.gymshark.com/en/",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "1a6d3153-5fe",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://support.gymshark.com/fr/",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "2a34a2d8-dc7",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://support.gymshark.com/de/",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "06b6ee01-6c1",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://support.gymshark.com/es/",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ab5ddbb7-bfc",
+      "type": "schema_org",
+      "key": "website",
+      "value": "{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"inLanguage\": \"en\", \"name\": \"Gymshark Support\", \"potentialAction\": {\"@type\": \"SearchAction\", \"query-input\": \"required name=search_term_string\", \"target\": {\"@type\": \"EntryPoint\", \"urlTemplate\": \"https://support.gymshark.com/en/search?q={search_term_string}\"}}, \"url\": \"https://support.gymshark.com/en/\"}",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d4acd505-f32",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "static.intercomassets.com",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "1402c84f-f16",
+      "type": "social_link",
+      "key": "facebook",
+      "value": "https://www.facebook.com/gymshark",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "ec5293d5-f97",
+      "type": "contact",
+      "key": "email",
+      "value": "legal@intercom.io",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 0.7
+    },
+    {
+      "id": "39d6aea0-b83",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "intercom.intercom-state-r2v7ynki-hc2237061",
+      "page": "https://support.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "741eb873-0da",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Gymshark Careers",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "02489459-025",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://undefined",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b3d9d2da-7d1",
+      "type": "infrastructure",
+      "key": "preconnect",
+      "value": "fonts.gstatic.com",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "4558474c-c9b",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "googleads.g.doubleclick.net",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "ae913dcb-e6b",
+      "type": "tracking_pixel",
+      "key": "tiktok_pixel",
+      "value": "analytics.tiktok.com/i18n/pixel/static/identify_5cff1caf.js\"></script><script type=\"text/javascript\" async=\"\" src=\"https://analytics.tiktok.com/i18n/pixel/static/main.MTJlMjhkNzMyMA.js\" data-id=\"C2IIM27MU8QAJ3JEPICG\"></script><script type=\"text/javascript\" async=\"\" src=\"https://www.googletagmanager.com/gtag/destination?id=AW-933026149&amp;cx=c&amp;gtm=4e63p1\"></script><script async=\"\" src=\"https://s.pinimg.com/ct/lib/main.34af66ec.js\"></script><script async=\"\" src=\"https://s.axon.ai/pixel.js\"></script><script async=\"\" src=\"https://c.albss.com/p/l/loader.iife.js\"></script><script type=\"text/javascript\" async=\"\" src=\"https://analytics.tiktok.com/i18n/pixel",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 0.95
+    },
+    {
+      "id": "1bf002f2-0c6",
+      "type": "ad_account",
+      "key": "google_doubleclick",
+      "value": "23",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "0f4e6d38-919",
+      "type": "ad_account",
+      "key": "tiktok_ads",
+      "value": "C2IIM27MU8QAJ3JEPICG",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "b606645a-a7b",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "i18nextLng",
+      "page": "https://careers.gymshark.com",
+      "depth": 1,
+      "confidence": 0.8
+    },
+    {
+      "id": "e8c0c3e2-015",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Bringing you all the latest news from Gymshark. Peep new releases ahead of launch, find new workouts and explore a whole host of health and lifestyle content. ",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "0e371727-965",
+      "type": "meta_tag",
+      "key": "canonical_url",
+      "value": "https://www.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "777a2f15-96f",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://row.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "2478d3c0-7a4",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://au.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "4696f276-810",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ca.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "d85fcb6b-ada",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://dk.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "506b1b40-a66",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://fi.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "9d095309-128",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://fr.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "99b4d99c-060",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://no.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "b080f7a6-c8b",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://se.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "ba2d912b-310",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://uk.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "f8fe0412-381",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://www.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "20cc1626-5d1",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://eu.gymshark.com/blog",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": "25744b42-d3a",
+      "type": "social_link",
+      "key": "twitter",
+      "value": "x.com/find",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "e9d4da0d-e3a",
+      "type": "social_link",
+      "key": "instagram",
+      "value": "https://www.instagram.com/p",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "19d8e925-833",
+      "type": "social_link",
+      "key": "instagram",
+      "value": "www.instagram.com/embed.js",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "67388571-f2a",
+      "type": "social_link",
+      "key": "instagram",
+      "value": "https://www.instagram.com/lucydavis_fit",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "b500b139-95c",
+      "type": "social_link",
+      "key": "instagram",
+      "value": "https://www.instagram.com/squat_university",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "646a41ed-54b",
+      "type": "social_link",
+      "key": "tiktok",
+      "value": "https://www.tiktok.com/@abbiedennisonfit",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "1a7f97a3-8e4",
+      "type": "social_link",
+      "key": "tiktok",
+      "value": "https://www.tiktok.com/@gregorandhattie",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "2020e728-f08",
+      "type": "social_link",
+      "key": "tiktok",
+      "value": "https://www.tiktok.com/@lb.fitt",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.85
+    },
+    {
+      "id": "bbf48199-04d",
+      "type": "contact",
+      "key": "email",
+      "value": "u003e@lb.fitt",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.7
+    },
+    {
+      "id": "c20823c8-4b9",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "TDID",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "afba0ecc-3e1",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "TDCPM",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "653d10a3-f10",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "article-store",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.8
+    },
+    {
+      "id": "00e458ec-57c",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "recently-searched-storage",
+      "page": "https://central.gymshark.com",
+      "depth": 2,
+      "confidence": 0.8
+    },
+    {
+      "id": "d1fb67f7-46e",
+      "type": "subdomain",
+      "key": "subdomain",
+      "value": "ch.checkout.gymshark.com",
+      "page": "https://ch.shop.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "51de0b47-ef7",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "audit_p",
+      "page": "https://ch.shop.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "4516da08-fac",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "khaos",
+      "page": "https://ch.shop.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "c85688e6-538",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "khaos_p",
+      "page": "https://ch.shop.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "1b7fb37b-8bc",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "audit",
+      "page": "https://ch.shop.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "3820f3a6-0e0",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "XANDR_PANID",
+      "page": "https://ch.shop.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "9e1778c9-afa",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "uuid2",
+      "page": "https://ch.shop.gymshark.com",
+      "depth": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "2c80aff8-ad4",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "TikTok Downloader - Download TikTok Video Without Watermark",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "2444fff5-c57",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Fastest TikTok video downloader! Save TikTok videos in HD with two taps, fast and free. With or without a watermark online – start now for high-quality downloads!",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "3aa534da-288",
+      "type": "meta_tag",
+      "key": "og:type",
+      "value": "article",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "efeb8d01-71f",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "4e88a425-ab0",
+      "type": "meta_tag",
+      "key": "og:image",
+      "value": "https://ssstik.io/images/og.png",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "d084aedd-775",
+      "type": "meta_tag",
+      "key": "og:site_name",
+      "value": "SSSTik.io",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "ba822cb9-f0a",
+      "type": "meta_tag",
+      "key": "twitter:card",
+      "value": "summary",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "8d527fad-2ae",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "2e656d6d-ac1",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/ru",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "a682d98d-9e1",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/tr",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "8ac92c14-132",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/es",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "e4734299-642",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/pt",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "a9789c38-57c",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/fr",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "d4c48b90-3cd",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/de",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "51118613-898",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.link",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "83e46e7d-cd6",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/id",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "b8fa180e-9cb",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/ja",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "365be501-895",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/ko",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "ba1eccc7-6bb",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/ar",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "bf668085-5f0",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/th",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "19a6f1f0-aac",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/it",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "007bc05f-4cc",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/pl",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "9389f93f-0a0",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/ms",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "c650a392-fb2",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/uk",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "c5010125-bd2",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/nl",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "3b4c9399-c15",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.io/ro",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "f2bf5adc-549",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"SSSTik\", \"url\": \"https://ssstik.io\", \"logo\": \"https://ssstik.io/apple-touch-icon-180x180-precomposed.png\", \"image\": \"https://ssstik.io/images/og.png\", \"description\": \"Fastest TikTok video downloader! Save your TikTok videos in two taps, fast and free. With or without a watermark with sss TikTok mp4 video downloader online\", \"email\": \"contact@ssstik.io\"}",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "2656801b-2f2",
+      "type": "schema_org",
+      "key": "webapplication",
+      "value": "{\"@context\": \"http://schema.org\", \"@type\": \"WebApplication\", \"name\": \"TikTok downloader\", \"applicationCategory\": \"EntertainmentApplication\", \"aggregateRating\": {\"@type\": \"AggregateRating\", \"ratingValue\": \"4.9\", \"reviewCount\": \"297531\"}}",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 1.0
+    },
+    {
+      "id": "2d17752a-c0d",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "pagead2.googlesyndication.com",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "209d82c3-846",
+      "type": "third_party_script",
+      "key": "script",
+      "value": "fundingchoicesmessages.google.com",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "481f5d89-cec",
+      "type": "tracking_pixel",
+      "key": "google_analytics_4",
+      "value": "G-ZSF3D6YSLC",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "e013a177-e36",
+      "type": "tracking_pixel",
+      "key": "google_tag_manager",
+      "value": "GTM-K3K8RD9",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "b98eaf7d-405",
+      "type": "ad_account",
+      "key": "google_ads",
+      "value": "10788731857",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "f0b109f9-8bb",
+      "type": "contact",
+      "key": "email",
+      "value": "contact@ssstik.io",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.7
+    },
+    {
+      "id": "b4c279d3-821",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "_ga_ZSF3D6YSLC",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "79507f9f-d1c",
+      "type": "cookie",
+      "key": "consent",
+      "value": "test_cookie",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "487f464a-490",
+      "type": "cookie",
+      "key": "analytics",
+      "value": "__gads",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "f9450944-eee",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "__gpi",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "d40fc9be-bb2",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "__eoi",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "ad1c5b8c-e3f",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "google_adsense_settings",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "bde327f4-b5a",
+      "type": "local_storage",
+      "key": "unknown",
+      "value": "google_ama_config",
+      "page": "https://ssstik.io",
+      "depth": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "fd1df78a-f29",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Скачать видео с Тик Тока без водяного знака онлайн",
+      "page": "https://ssstik.io/ru",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d486dbc1-a59",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Скачивайте видео с Тик Тока всего за 2 клика! Быстро, бесплатно и без водяного знака. Работает на любом устройстве.",
+      "page": "https://ssstik.io/ru",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "aac30996-50f",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/ru",
+      "page": "https://ssstik.io/ru",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ff1b2d99-6d1",
+      "type": "vendor",
+      "key": "recaptcha",
+      "value": "reCAPTCHA",
+      "page": "https://ssstik.io/ru",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "6fbb34c7-38b",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "FCCDCF",
+      "page": "https://ssstik.io/ru",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "c792986d-4bd",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "TikTok video indir filigransız MP4 çevrimiçi ücretsiz indirin",
+      "page": "https://ssstik.io/tr",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "76c58b89-8d9",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "TikTok video indir filigransız ve ücretsiz! TT video indirme aracıyla MP4 formatında HD kalitede saniyeler içinde kaydet. Uygulama gerektirmez, hemen başla!",
+      "page": "https://ssstik.io/tr",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "122211c0-3ef",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/tr",
+      "page": "https://ssstik.io/tr",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "c83717d4-038",
+      "type": "social_link",
+      "key": "twitter",
+      "value": "twitter.com/tr",
+      "page": "https://ssstik.io/tr",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "b9bc8286-6af",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Descargar videos de TikTok sin marca de agua con TikTok video downloader",
+      "page": "https://ssstik.io/es",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "19804fb8-659",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Descargar videos de TikTok sin marca de agua en unos simples pasos y de forma gratuita. Sin límites ni otras restricciones. Funciona en todos los dispositivos!",
+      "page": "https://ssstik.io/es",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "a02a9c98-e4e",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/es",
+      "page": "https://ssstik.io/es",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "9f744c52-6e5",
+      "type": "social_link",
+      "key": "twitter",
+      "value": "twitter.com/es",
+      "page": "https://ssstik.io/es",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "6df5afd6-5b5",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Baixar Video TikTok sem marca d",
+      "page": "https://ssstik.io/pt",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "7057a7b1-e61",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Baixar video do TikTok sem marca d",
+      "page": "https://ssstik.io/pt",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "880745e8-2d1",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/pt",
+      "page": "https://ssstik.io/pt",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "55f3aad2-106",
+      "type": "social_link",
+      "key": "twitter",
+      "value": "twitter.com/pt",
+      "page": "https://ssstik.io/pt",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "1b81ca2e-21f",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Telecharger video TikTok sans filigrane avec TikTok downloader",
+      "page": "https://ssstik.io/fr",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "3224dae7-f31",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Telecharger videos TikTok sans filigrane en MP3 ou MP4 ! Enregistrez-les en deux clics, rapide, facile et gratuit en ligne. Commencez maintenant !",
+      "page": "https://ssstik.io/fr",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "1793b756-ddd",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/fr",
+      "page": "https://ssstik.io/fr",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ba8918e0-431",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "TikTok video Downloader ohne wasserzeichen online - TikTok download",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ff2d8e7f-a91",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Schnellster TikTok Video Downloader! Speichern Ihre Videos in zwei Schritten, schnell und kostenlos ohne Wasserzeichen mit sss TikTok download video service",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "df2567be-5ea",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/de",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "b89eb679-c89",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "_tracker",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "4de3d3a2-246",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "suid",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "2b97bce0-a22",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "V",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "bf10765c-4a8",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "VP",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "6b1c7270-005",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "pb_rtb_ev",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "1825e4ab-a46",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "pb_rtb_ev_part",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "548747f2-fd7",
+      "type": "cookie",
+      "key": "consent",
+      "value": "INGRESSCOOKIE",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "52fbc572-f7f",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "mlcwc",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "bc1fdbf5-e51",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "tt_viewer",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "37097788-145",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "i",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "dc63846f-6ce",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "__mguid_",
+      "page": "https://ssstik.io/de",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "8c117f02-c1c",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Tải video TikTok không có logo Miễn Phí trực tuyến mp4",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "8f22336a-e88",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "TikTok downloader là một công cụ miễn phí để giúp bạn tải video TikTok trực tuyến không id. Tai video tiktok với chất lượng tốt nhất với định dạng tập tin MP4 và độ phân giải HD",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "14915cbc-d38",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.link/",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ee5ff2ef-29f",
+      "type": "meta_tag",
+      "key": "og:image",
+      "value": "https://ssstik.link/images/og.png",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "11ba91b6-d1f",
+      "type": "meta_tag",
+      "key": "og:site_name",
+      "value": "Ssstik",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "838b401a-e6c",
+      "type": "domain_variant",
+      "key": "alternate_url",
+      "value": "https://ssstik.link/",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "e0154284-cb1",
+      "type": "schema_org",
+      "key": "organization",
+      "value": "{\"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"SSSTik\", \"url\": \"https://ssstik.link\", \"logo\": \"https://ssstik.link/apple-touch-icon-180x180-precomposed.png\", \"image\": \"https://ssstik.link/images/og.png\", \"description\": \"Fastest TikTok video downloader! Save your TikTok videos in two taps, fast and free. With or without a watermark with sss TikTok mp4 video downloader online\", \"email\": \"contact@ssstik.io\"}",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "90680eb7-04c",
+      "type": "social_link",
+      "key": "twitter",
+      "value": "twitter.com/vi",
+      "page": "https://ssstik.link",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "11b9eaaf-6fc",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Download Video TikTok Tanpa Watermark HD - TikTok Downloader",
+      "page": "https://ssstik.io/id",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "8f8cdcce-794",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "TikTok downloader membantu Anda download video TikTok tanpa watermark gratis dalam mp4 atau mp3 online. Cepat, kualitas HD – Cukup masukkan tautan, coba sekarang!",
+      "page": "https://ssstik.io/id",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "9e7ab046-2b2",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/id",
+      "page": "https://ssstik.io/id",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "be6d058b-6a6",
+      "type": "social_link",
+      "key": "twitter",
+      "value": "twitter.com/id",
+      "page": "https://ssstik.io/id",
+      "depth": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "b27b09ec-5db",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "TikTok 保存 - ウォーターマークなしのTikTok動画をオンラインで簡単にダウンロード",
+      "page": "https://ssstik.io/ja",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "0f9e25a5-9d1",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "最速TikTokダウンローダー！2タップでMP4動画を無料で高速保存！ウォーターマークなしで簡単オンライン。TikTok動画を今すぐダウンロード！",
+      "page": "https://ssstik.io/ja",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "f8847989-da0",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/ja",
+      "page": "https://ssstik.io/ja",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "a25cb7c2-c63",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "틱톡 영상 다운 로드그리고틱톡 워터마크 제거 - 와TikTok downloader",
+      "page": "https://ssstik.io/ko",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "a1d8be03-070",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Tik Tok 비디오 다운로드-두 번의 클릭으로 파일을 저장합니다. 간단히 링크를 삽입하십시오. 빠르고 무료입니다. 모든 장치에서 TikTok 비디오를 다운로드 할 수 있습니다.",
+      "page": "https://ssstik.io/ko",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "db4221ee-0f6",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/ko",
+      "page": "https://ssstik.io/ko",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "1c66aec5-5ad",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "تحميل تيك توك بدون علامة مائية - TikTok video downloader",
+      "page": "https://ssstik.io/ar",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "6c2938d5-e83",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "أداة رائعة لتحميل فيديو TikTok بسهولة وسرعة مجانًا! احفظ مقاطع MP4 بنقرتين فقط على أي جهاز. ابدأ التحميل الآن بلا حدود!",
+      "page": "https://ssstik.io/ar",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d025867e-693",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/ar",
+      "page": "https://ssstik.io/ar",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "677f302d-b1c",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "ดาวน์โหลด TikTok (ติ๊กต็อก) แบบไม่มีลายน้ำทางออนไลน์ด้วยเครื่อง ลบลายน้ํา tiktok ฟรีี",
+      "page": "https://ssstik.io/th",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "2642e610-c89",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "ดาวน์โหลดวิดีโอ TikTok เร็วที่สุด! บันทึก MP4 หรือวิดีโอไม่มีลายน้ำฟรี ง่ายและรวดเร็วด้วยสองแตะบนอุปกรณ์ใดก็ได้ออนไลน์ เริ่มเลย!",
+      "page": "https://ssstik.io/th",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "92ca8ac5-1f3",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/th",
+      "page": "https://ssstik.io/th",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "821de803-962",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Scaricare Video TikTok MP4 Senza Filigrana - TikTok downloader Gratis",
+      "page": "https://ssstik.io/it",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "7b5a1bd9-d01",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Con il nostro TikTok Downloader, puoi scaricare tutti i video che desideri senza limiti o restrizioni, completamente gratis. Download tiktok video in HD MP4",
+      "page": "https://ssstik.io/it",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "f0ebccd4-eeb",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/it",
+      "page": "https://ssstik.io/it",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "d339b72d-cd5",
+      "type": "meta_tag",
+      "key": "og:title",
+      "value": "Pobieranie z TikToka bez Znaku Wodnego - TikTok Video Download",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "8ae1adf7-9a2",
+      "type": "meta_tag",
+      "key": "og:description",
+      "value": "Najszybszy TikTok Downloader! Zapisywanie filmy TikTok bez znaku wodnego w dwóch klikach, szybko i za darmo bez znaku wodnego. Możesz pobieranie filmów z TikToka z dowolnego urządzenia.",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "a7881866-f37",
+      "type": "meta_tag",
+      "key": "og:url",
+      "value": "https://ssstik.io/pl",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": "3d15eed8-39f",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "cid_8a05209ada694d60b9ce31aeae9729ba",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "f3ec3551-ed2",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "gid_CAESECgXwtHPealXQS6-VZfFimk",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "5a4b558b-d6c",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "DSID",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "012a3050-5a3",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "g",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "095cbf12-2fe",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "ts",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "bf8fac6e-c53",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "mc",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "2368c894-560",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "x",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "6422983f-434",
+      "type": "cookie",
+      "key": "unknown",
+      "value": "sp",
+      "page": "https://ssstik.io/pl",
+      "depth": 1,
+      "confidence": 0.9
+    }
+  ],
+  "edges": [
+    {
+      "source": "page:il.linkedin.com",
+      "target": "page:kontactr.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:il.linkedin.com",
+      "target": "page:scorank.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:il.linkedin.com",
+      "target": "page:www.deviantart.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:il.linkedin.com",
+      "target": "page:www.scribd.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:kontactr.com",
+      "target": "page:scorank.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:kontactr.com",
+      "target": "page:www.deviantart.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:kontactr.com",
+      "target": "page:www.scribd.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:scorank.com",
+      "target": "page:www.deviantart.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:scorank.com",
+      "target": "page:www.scribd.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:www.deviantart.com",
+      "target": "page:www.scribd.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://ch.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://dk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://eu.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://fi.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://no.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://se.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://au.gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ch.gymshark.com",
+      "target": "page:https://dk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ch.gymshark.com",
+      "target": "page:https://eu.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ch.gymshark.com",
+      "target": "page:https://fi.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ch.gymshark.com",
+      "target": "page:https://gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ch.gymshark.com",
+      "target": "page:https://no.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ch.gymshark.com",
+      "target": "page:https://se.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ch.gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://dk.gymshark.com",
+      "target": "page:https://eu.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://dk.gymshark.com",
+      "target": "page:https://fi.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://dk.gymshark.com",
+      "target": "page:https://gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://dk.gymshark.com",
+      "target": "page:https://no.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://dk.gymshark.com",
+      "target": "page:https://se.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://dk.gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://eu.gymshark.com",
+      "target": "page:https://fi.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://eu.gymshark.com",
+      "target": "page:https://gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://eu.gymshark.com",
+      "target": "page:https://no.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://eu.gymshark.com",
+      "target": "page:https://se.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://eu.gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://fi.gymshark.com",
+      "target": "page:https://gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://fi.gymshark.com",
+      "target": "page:https://no.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://fi.gymshark.com",
+      "target": "page:https://se.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://fi.gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://gymshark.com",
+      "target": "page:https://no.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://gymshark.com",
+      "target": "page:https://se.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://no.gymshark.com",
+      "target": "page:https://se.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://no.gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://se.gymshark.com",
+      "target": "page:https://uk.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ca.gymshark.com",
+      "target": "page:https://de.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ca.gymshark.com",
+      "target": "page:https://fr.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ca.gymshark.com",
+      "target": "page:https://nl.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ca.gymshark.com",
+      "target": "page:https://www.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://de.gymshark.com",
+      "target": "page:https://fr.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://de.gymshark.com",
+      "target": "page:https://nl.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://de.gymshark.com",
+      "target": "page:https://www.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://fr.gymshark.com",
+      "target": "page:https://nl.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://fr.gymshark.com",
+      "target": "page:https://www.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://nl.gymshark.com",
+      "target": "page:https://www.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 1.0
+    },
+    {
+      "source": "page:https://ca.gymshark.com",
+      "target": "page:https://careers.gymshark.com",
+      "type": "shares_artifact",
+      "strength": 0.7
+    }
+  ],
+  "stats": {
+    "total_nodes": 494,
+    "total_edges": 57,
+    "type_counts": {
+      "cookie": 135,
+      "meta_tag": 98,
+      "domain_variant": 52,
+      "local_storage": 33,
+      "schema_org": 32,
+      "social_link": 31,
+      "tracking_pixel": 24,
+      "subdomain": 22,
+      "ad_account": 19,
+      "third_party_script": 18,
+      "vendor": 11,
+      "infrastructure": 10,
+      "framework": 6,
+      "contact": 3
+    }
+  }
+}

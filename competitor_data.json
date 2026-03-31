@@ -1,0 +1,275 @@
+{
+  "target": "ssstik.io",
+  "gymshark_baseline": {
+    "domain": "ssstik.io",
+    "pages_scanned": 24,
+    "total_artifacts": 381,
+    "ad_platforms": [
+      "Amazon DSP",
+      "Axon AI",
+      "DoubleClick",
+      "Facebook Ads",
+      "Google Ads",
+      "The Trade Desk",
+      "TikTok Ads"
+    ],
+    "ad_platform_count": 7,
+    "tracking_pixel_types": [
+      "bing_uet",
+      "facebook_pixel",
+      "google_analytics_4",
+      "google_tag_manager",
+      "pinterest_tag",
+      "reddit_pixel",
+      "tiktok_pixel"
+    ],
+    "tracking_pixel_count": 7,
+    "vendors": [
+      "AWS",
+      "Algolia",
+      "AppLovin",
+      "Contentful",
+      "Dynamic Yield",
+      "Intercom",
+      "OneTrust",
+      "Shopify",
+      "Stylitics",
+      "mParticle"
+    ],
+    "vendor_count": 10,
+    "frameworks": [
+      "angular",
+      "gtag",
+      "gtm",
+      "nextjs",
+      "shopify",
+      "vue"
+    ],
+    "infrastructure": {
+      "preconnect": [
+        "cdn.gymshark.com",
+        "cdn.shopify.com",
+        "fonts.gstatic.com",
+        "images.ctfassets.net"
+      ],
+      "shopify_store_id": [
+        "0098"
+      ],
+      "cdn": [
+        "shopify_cdn"
+      ],
+      "framework": [
+        "Next.js"
+      ],
+      "cms": [
+        "Contentful"
+      ],
+      "ecommerce": [
+        "Shopify"
+      ],
+      "waf": [
+        "AWS WAF"
+      ]
+    },
+    "social_profiles": 26
+  },
+  "competitors": {
+    "alphalete.com": {
+      "domain": "alphalete.com",
+      "name": "Alphalete Athletics",
+      "status": "success",
+      "url": "https://alphalete.com",
+      "title": "",
+      "elapsed": 4.2,
+      "total_artifacts": 0,
+      "ad_platforms": [],
+      "ad_platform_count": 0,
+      "tracking_pixels": [],
+      "tracking_pixel_count": 0,
+      "vendors": [],
+      "vendor_count": 0,
+      "frameworks": [],
+      "social_profile_count": 0,
+      "is_shopify": false,
+      "infrastructure": {}
+    },
+    "fabletics.com": {
+      "domain": "fabletics.com",
+      "name": "Fabletics",
+      "status": "success",
+      "url": "https://fabletics.com",
+      "title": "Attention Required! | Cloudflare",
+      "elapsed": 3.1,
+      "total_artifacts": 4,
+      "ad_platforms": [],
+      "ad_platform_count": 0,
+      "tracking_pixels": [],
+      "tracking_pixel_count": 0,
+      "vendors": [
+        "Cloudflare"
+      ],
+      "vendor_count": 1,
+      "frameworks": [
+        "angular",
+        "gtag"
+      ],
+      "social_profile_count": 0,
+      "is_shopify": false,
+      "infrastructure": {
+        "cdn": [
+          "cloudflare"
+        ]
+      }
+    },
+    "buffbunny.com": {
+      "domain": "buffbunny.com",
+      "name": "Buffbunny Collection",
+      "status": "success",
+      "url": "https://buffbunny.com",
+      "title": "Shop Women's Athletic Wear for Every Body Type | Buffbunny",
+      "elapsed": 17.6,
+      "total_artifacts": 90,
+      "ad_platforms": [
+        "DoubleClick"
+      ],
+      "ad_platform_count": 1,
+      "tracking_pixels": [
+        "facebook_pixel",
+        "google_analytics_4",
+        "klaviyo"
+      ],
+      "tracking_pixel_count": 3,
+      "vendors": [
+        "Attentive",
+        "Gorgias",
+        "Rebuy",
+        "Shopify",
+        "Yotpo"
+      ],
+      "vendor_count": 5,
+      "frameworks": [
+        "angular",
+        "gtag",
+        "gtm",
+        "shopify"
+      ],
+      "social_profile_count": 4,
+      "is_shopify": true,
+      "infrastructure": {
+        "preconnect": [
+          "${currentSwymJSPath}",
+          "${currentSwymStorePath}",
+          "https:",
+          "monorail-edge.shopifysvc.com",
+          "shop.app"
+        ],
+        "cdn": [
+          "shopify_cdn"
+        ],
+        "ecommerce": [
+          "Shopify"
+        ]
+      }
+    },
+    "nvgtn.com": {
+      "domain": "nvgtn.com",
+      "name": "NVGTN",
+      "status": "success",
+      "url": "https://nvgtn.com",
+      "title": "NVGTN | Official Store",
+      "elapsed": 5.6,
+      "total_artifacts": 84,
+      "ad_platforms": [
+        "Google Ads"
+      ],
+      "ad_platform_count": 1,
+      "tracking_pixels": [
+        "facebook_pixel",
+        "google_analytics_4"
+      ],
+      "tracking_pixel_count": 2,
+      "vendors": [
+        "Mailchimp",
+        "Shopify"
+      ],
+      "vendor_count": 2,
+      "frameworks": [
+        "angular",
+        "gtag",
+        "gtm",
+        "shopify"
+      ],
+      "social_profile_count": 6,
+      "is_shopify": true,
+      "infrastructure": {
+        "preconnect": [
+          "monorail-edge.shopifysvc.com",
+          "shop.app"
+        ],
+        "shopify_store_id": [
+          "0112"
+        ],
+        "cdn": [
+          "cloudfront",
+          "shopify_cdn"
+        ],
+        "ecommerce": [
+          "Shopify"
+        ]
+      }
+    },
+    "lululemon.com": {
+      "domain": "lululemon.com",
+      "name": "Lululemon",
+      "status": "failed",
+      "url": "https://lululemon.com",
+      "error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://lululemon.com/\", waiting until \"domcontentloaded\"\n",
+      "elapsed": 20.1
+    },
+    "vuori.com": {
+      "domain": "vuori.com",
+      "name": "Vuori",
+      "status": "success",
+      "url": "https://vuori.com",
+      "title": "Athletic Clothing & Activewear Apparel for Performance – Vuori",
+      "elapsed": 7.9,
+      "total_artifacts": 98,
+      "ad_platforms": [],
+      "ad_platform_count": 0,
+      "tracking_pixels": [
+        "google_tag_manager",
+        "klaviyo"
+      ],
+      "tracking_pixel_count": 2,
+      "vendors": [
+        "OneTrust",
+        "Shopify",
+        "Yotpo"
+      ],
+      "vendor_count": 3,
+      "frameworks": [
+        "angular",
+        "gtag",
+        "gtm",
+        "nextjs",
+        "shopify"
+      ],
+      "social_profile_count": 12,
+      "is_shopify": true,
+      "infrastructure": {
+        "shopify_store_id": [
+          "0022"
+        ],
+        "cdn": [
+          "shopify_cdn"
+        ],
+        "framework": [
+          "Next.js"
+        ],
+        "ecommerce": [
+          "Shopify"
+        ]
+      }
+    }
+  }
+}

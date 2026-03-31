@@ -1,0 +1,130 @@
+{
+  "facebook_pixel:1263319854288554": {
+    "id_type": "facebook_pixel",
+    "id_value": "1263319854288554",
+    "base_confidence": 0.95,
+    "adjusted_confidence": 0.95,
+    "all_domains": [],
+    "filtered_domains": [],
+    "external_domains": [],
+    "external_count": 0,
+    "note": "High signal: rarely shared across unrelated owners"
+  },
+  "facebook_pixel:293240424340622": {
+    "id_type": "facebook_pixel",
+    "id_value": "293240424340622",
+    "base_confidence": 0.95,
+    "adjusted_confidence": 0.95,
+    "all_domains": [],
+    "filtered_domains": [],
+    "external_domains": [],
+    "external_count": 0,
+    "note": "High signal: rarely shared across unrelated owners"
+  },
+  "gtm_container:GTM-WQXVFFG": {
+    "id_type": "gtm_container",
+    "id_value": "GTM-WQXVFFG",
+    "base_confidence": 0.88,
+    "adjusted_confidence": 0.88,
+    "all_domains": [
+      "builtwith.com"
+    ],
+    "filtered_domains": [
+      "builtwith.com"
+    ],
+    "external_domains": [
+      "builtwith.com"
+    ],
+    "external_count": 1,
+    "note": "High signal: rarely shared across unrelated owners"
+  },
+  "shopify_store:0098": {
+    "id_type": "shopify_store",
+    "id_value": "0098",
+    "base_confidence": 0.85,
+    "adjusted_confidence": 0.85,
+    "all_domains": [
+      "open.spotify.com",
+      "parts.cat.com",
+      "planificateur.a-contresens.net",
+      "sae22.ir",
+      "tax.colorado.gov",
+      "www.aparat.com",
+      "www.ech.ch",
+      "www.fundermax.com",
+      "www.icarsoft-france.fr",
+      "www.indicatif-pays.com",
+      "www.indicatifs-pays.net",
+      "www.jlf-pro.com",
+      "www.majorica.ma",
+      "www.w3.org",
+      "www.xn----ymcbkpo4j3abb5bs.com"
+    ],
+    "filtered_domains": [
+      "open.spotify.com",
+      "parts.cat.com",
+      "planificateur.a-contresens.net",
+      "sae22.ir",
+      "tax.colorado.gov",
+      "www.aparat.com",
+      "www.ech.ch",
+      "www.fundermax.com",
+      "www.icarsoft-france.fr",
+      "www.indicatif-pays.com",
+      "www.indicatifs-pays.net",
+      "www.jlf-pro.com",
+      "www.majorica.ma",
+      "www.w3.org",
+      "www.xn----ymcbkpo4j3abb5bs.com"
+    ],
+    "external_domains": [
+      "open.spotify.com",
+      "parts.cat.com",
+      "planificateur.a-contresens.net",
+      "sae22.ir",
+      "tax.colorado.gov",
+      "www.aparat.com",
+      "www.ech.ch",
+      "www.fundermax.com",
+      "www.icarsoft-france.fr",
+      "www.indicatif-pays.com",
+      "www.indicatifs-pays.net",
+      "www.jlf-pro.com",
+      "www.majorica.ma",
+      "www.w3.org",
+      "www.xn----ymcbkpo4j3abb5bs.com"
+    ],
+    "external_count": 15,
+    "note": "High signal: rarely shared across unrelated owners"
+  },
+  "google_ads:933026149": {
+    "id_type": "google_ads",
+    "id_value": "933026149",
+    "base_confidence": 0.5,
+    "adjusted_confidence": 0.2,
+    "all_domains": [
+      "il.linkedin.com",
+      "kontactr.com",
+      "scorank.com",
+      "www.deviantart.com",
+      "www.scribd.com"
+    ],
+    "filtered_domains": [],
+    "external_domains": [],
+    "external_count": 0,
+    "note": "Low signal: Google Ads is ubiquitous across web"
+  },
+  "google_ads:829046539": {
+    "id_type": "google_ads",
+    "id_value": "829046539",
+    "base_confidence": 0.5,
+    "adjusted_confidence": 0.2,
+    "all_domains": [
+      "www.deviantart.com"
+    ],
+    "filtered_domains": [],
+    "external_domains": [],
+    "external_count": 0,
+    "note": "Low signal: Google Ads is ubiquitous across web"
+  }
+}

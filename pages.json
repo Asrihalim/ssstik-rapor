@@ -1,0 +1,392 @@
+[
+  {
+    "url": "https://gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 0,
+    "visited_at": "2026-03-29T23:34:43.531902+00:00",
+    "artifact_count": 131,
+    "html_length": 1405449,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io",
+    "title": "TikTok Downloader - Download TikTok Video Without Watermark",
+    "status": "ok",
+    "depth": 0,
+    "visited_at": "2026-03-31T18:42:23.349928+00:00",
+    "artifact_count": 58,
+    "html_length": 48045,
+    "error": ""
+  },
+  {
+    "url": "https://au.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes - Gymshark",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:36:35.613950+00:00",
+    "artifact_count": 216,
+    "html_length": 1078125,
+    "error": ""
+  },
+  {
+    "url": "https://ca.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:36:47.348907+00:00",
+    "artifact_count": 251,
+    "html_length": 1106212,
+    "error": ""
+  },
+  {
+    "url": "https://dk.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:37:03.044237+00:00",
+    "artifact_count": 240,
+    "html_length": 1107418,
+    "error": ""
+  },
+  {
+    "url": "https://fi.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:37:16.019038+00:00",
+    "artifact_count": 254,
+    "html_length": 1440617,
+    "error": ""
+  },
+  {
+    "url": "https://fr.gymshark.com",
+    "title": "Vêtements & Tenues de Sport | Magasin Officiel Gymshark",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:37:28.863514+00:00",
+    "artifact_count": 261,
+    "html_length": 1108658,
+    "error": ""
+  },
+  {
+    "url": "https://de.gymshark.com",
+    "title": "Gymshark Offizieller Store | Sport Bekleidung | Gymshark",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:37:40.689278+00:00",
+    "artifact_count": 265,
+    "html_length": 1107534,
+    "error": ""
+  },
+  {
+    "url": "https://nl.gymshark.com",
+    "title": "Gymshark's Officiële Winkel | Sportkleding | Gymshark",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:37:53.352702+00:00",
+    "artifact_count": 270,
+    "html_length": 1081213,
+    "error": ""
+  },
+  {
+    "url": "https://no.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:38:06.703795+00:00",
+    "artifact_count": 269,
+    "html_length": 1112840,
+    "error": ""
+  },
+  {
+    "url": "https://se.gymshark.com",
+    "title": "Gymshark Official Store | Gym Clothes & Workout Wear | Gymshark",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:38:18.240055+00:00",
+    "artifact_count": 272,
+    "html_length": 1114113,
+    "error": ""
+  },
+  {
+    "url": "https://ch.gymshark.com",
+    "title": "Gymshark Offizieller Store | Sport Bekleidung | Gymshark",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:38:31.585902+00:00",
+    "artifact_count": 265,
+    "html_length": 1094856,
+    "error": ""
+  },
+  {
+    "url": "https://uk.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:38:45.661445+00:00",
+    "artifact_count": 268,
+    "html_length": 1614326,
+    "error": ""
+  },
+  {
+    "url": "https://www.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:39:01.308218+00:00",
+    "artifact_count": 302,
+    "html_length": 1412836,
+    "error": ""
+  },
+  {
+    "url": "https://eu.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:39:15.315379+00:00",
+    "artifact_count": 272,
+    "html_length": 1419310,
+    "error": ""
+  },
+  {
+    "url": "https://eu.gymshark.com/es-ES",
+    "title": "Tienda oficial de Gymshark - Ropa de gimnasio y ropa de entrenamiento",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-29T23:39:26.461062+00:00",
+    "artifact_count": 296,
+    "html_length": 1067071,
+    "error": ""
+  },
+  {
+    "url": "https://row.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-30T11:10:55.695007+00:00",
+    "artifact_count": 118,
+    "html_length": 1394865,
+    "error": ""
+  },
+  {
+    "url": "https://www.gymshark.com/es-US",
+    "title": "Ropa Deportiva y de Entrenamiento - Gymshark",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-30T11:11:22.068473+00:00",
+    "artifact_count": 150,
+    "html_length": 1441077,
+    "error": ""
+  },
+  {
+    "url": "https://cdn.gymshark.com",
+    "title": "",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-30T11:11:40.077955+00:00",
+    "artifact_count": 38,
+    "html_length": 2336,
+    "error": ""
+  },
+  {
+    "url": "https://support.gymshark.com",
+    "title": "Home | Gymshark Support",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-30T11:11:45.220306+00:00",
+    "artifact_count": 78,
+    "html_length": 74996,
+    "error": ""
+  },
+  {
+    "url": "https://careers.gymshark.com",
+    "title": "Gymshark Careers",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-30T11:11:51.087529+00:00",
+    "artifact_count": 82,
+    "html_length": 120799,
+    "error": ""
+  },
+  {
+    "url": "https://gdpr.gymshark.com",
+    "title": "",
+    "status": "error",
+    "depth": 1,
+    "visited_at": "2026-03-30T11:11:53.214370+00:00",
+    "artifact_count": 0,
+    "html_length": 0,
+    "error": "Page.goto: net::ERR_ABORTED at https://gdpr.gymshark.com/\nCall log:\n  - navigating to \"https://gdpr.gymshark.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://us.checkout.gymshark.com",
+    "title": "Gymshark Official Store - Gym Clothes & Workout Clothes",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-30T11:12:04.895403+00:00",
+    "artifact_count": 177,
+    "html_length": 1599007,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/ru",
+    "title": "Скачать видео с Тик Тока без водяного знака онлайн",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:07.152722+00:00",
+    "artifact_count": 132,
+    "html_length": 48763,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/tr",
+    "title": "TikTok video indir filigransız MP4 çevrimiçi ücretsiz indirin",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:09.986115+00:00",
+    "artifact_count": 133,
+    "html_length": 47431,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/es",
+    "title": "Descargar videos de TikTok sin marca de agua con TikTok video downloader",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:20.457924+00:00",
+    "artifact_count": 133,
+    "html_length": 46728,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/pt",
+    "title": "Baixar Video TikTok sem marca d'água com o TikTok downloader",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:30.144748+00:00",
+    "artifact_count": 133,
+    "html_length": 50947,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/fr",
+    "title": "Telecharger video TikTok sans filigrane avec TikTok downloader",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:40.307133+00:00",
+    "artifact_count": 131,
+    "html_length": 50206,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/de",
+    "title": "TikTok video Downloader ohne wasserzeichen online - TikTok download",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:43.231072+00:00",
+    "artifact_count": 142,
+    "html_length": 50021,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.link",
+    "title": "Tải video TikTok không có logo Miễn Phí trực tuyến mp4",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:46.983809+00:00",
+    "artifact_count": 140,
+    "html_length": 36466,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/id",
+    "title": "Download Video TikTok Tanpa Watermark HD - TikTok Downloader",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:44:57.130208+00:00",
+    "artifact_count": 147,
+    "html_length": 51625,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/ja",
+    "title": "TikTok 保存 - ウォーターマークなしのTikTok動画をオンラインで簡単にダウンロード",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:45:07.296618+00:00",
+    "artifact_count": 146,
+    "html_length": 46993,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/ko",
+    "title": "틱톡 영상 다운 로드그리고틱톡 워터마크 제거 - 와TikTok downloader",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:45:10.479669+00:00",
+    "artifact_count": 147,
+    "html_length": 46022,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/ar",
+    "title": "تحميل تيك توك بدون علامة مائية - TikTok video downloader",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:45:13.253959+00:00",
+    "artifact_count": 147,
+    "html_length": 48590,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/th",
+    "title": "ดาวน์โหลด TikTok (ติ๊กต็อก) แบบไม่มีลายน้ำทางออนไลน์ด้วยเครื่อง ลบลายน้ํา tiktok ฟรีี",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:45:16.264072+00:00",
+    "artifact_count": 144,
+    "html_length": 51914,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/it",
+    "title": "Scaricare Video TikTok MP4 Senza Filigrana - TikTok downloader Gratis",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:45:18.954416+00:00",
+    "artifact_count": 147,
+    "html_length": 50897,
+    "error": ""
+  },
+  {
+    "url": "https://ssstik.io/pl",
+    "title": "Pobieranie z TikToka bez Znaku Wodnego - TikTok Video Download",
+    "status": "ok",
+    "depth": 1,
+    "visited_at": "2026-03-31T18:45:21.771193+00:00",
+    "artifact_count": 153,
+    "html_length": 46977,
+    "error": ""
+  },
+  {
+    "url": "https://central.gymshark.com",
+    "title": "Gymshark's Official Blog",
+    "status": "ok",
+    "depth": 2,
+    "visited_at": "2026-03-30T11:12:31.505576+00:00",
+    "artifact_count": 193,
+    "html_length": 2306802,
+    "error": ""
+  },
+  {
+    "url": "https://ch.shop.gymshark.com",
+    "title": "Gymshark Offizieller Store | Sport Bekleidung | Gymshark",
+    "status": "ok",
+    "depth": 2,
+    "visited_at": "2026-03-30T11:12:59.896540+00:00",
+    "artifact_count": 188,
+    "html_length": 1070838,
+    "error": ""
+  }
+]

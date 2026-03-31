@@ -1,0 +1,29 @@
+{
+  "target": "ssstik.io",
+  "pages_visited": 39,
+  "total_artifacts": 494,
+  "total_leads": 277,
+  "leads_completed": 191,
+  "leads_skipped": 48,
+  "leads_investigated": 191,
+  "max_depth_reached": 2,
+  "duration_seconds": 186.1,
+  "artifact_types": {
+    "cookie": 135,
+    "meta_tag": 98,
+    "domain_variant": 52,
+    "local_storage": 33,
+    "schema_org": 32,
+    "social_link": 31,
+    "tracking_pixel": 24,
+    "subdomain": 22,
+    "ad_account": 19,
+    "third_party_script": 18,
+    "vendor": 11,
+    "infrastructure": 10,
+    "framework": 6,
+    "contact": 3
+  },
+  "correlations_count": 3,
+  "errors": []
+}

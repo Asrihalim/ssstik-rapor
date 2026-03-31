@@ -1,0 +1,773 @@
+{
+  "target": "ssstik.io",
+  "generated_at": "2026-03-31T18:38:39.114076+00:00",
+  "gdpr_categories": {
+    "necessary": [],
+    "analytics": [
+      {
+        "name": "_ga",
+        "domain": ".gymshark.com",
+        "original_category": "analytics"
+      },
+      {
+        "name": "_ga_PQJ0N2K1QF",
+        "domain": ".gymshark.com",
+        "original_category": "analytics"
+      },
+      {
+        "name": "_fbp",
+        "domain": ".gymshark.com",
+        "original_category": "analytics"
+      },
+      {
+        "name": "_pin_unauth",
+        "domain": ".ca.gymshark.com",
+        "original_category": "analytics"
+      },
+      {
+        "name": "_uetvid",
+        "domain": ".gymshark.com",
+        "original_category": "analytics"
+      },
+      {
+        "name": "_rdt_uuid",
+        "domain": ".gymshark.com",
+        "original_category": "analytics"
+      },
+      {
+        "name": "_uetvid_exp",
+        "type": "localStorage",
+        "original_category": "analytics"
+      },
+      {
+        "name": "_uetvid",
+        "type": "localStorage",
+        "original_category": "analytics"
+      }
+    ],
+    "marketing": [
+      {
+        "name": "_pinterest_sess",
+        "domain": ".pinterest.com",
+        "original_category": "advertising"
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".gymshark.com",
+        "original_category": "advertising"
+      },
+      {
+        "name": "_tt_enable_cookie",
+        "domain": ".gymshark.com",
+        "original_category": "advertising"
+      },
+      {
+        "name": "_uetsid",
+        "domain": ".gymshark.com",
+        "original_category": "advertising"
+      },
+      {
+        "name": "_pinterest_ct_ua",
+        "domain": ".ct.pinterest.com",
+        "original_category": "advertising"
+      },
+      {
+        "name": "_gcl_ls",
+        "type": "localStorage",
+        "original_category": "advertising"
+      },
+      {
+        "name": "_uetsid",
+        "type": "localStorage",
+        "original_category": "advertising"
+      },
+      {
+        "name": "_uetsid_exp",
+        "type": "localStorage",
+        "original_category": "advertising"
+      }
+    ],
+    "functional": [
+      {
+        "name": "cart_currency",
+        "domain": "us.checkout.gymshark.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "styliticsWidgetSession",
+        "domain": ".gymshark.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "_dyjsession",
+        "domain": ".gymshark.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "csrftoken",
+        "domain": ".instagram.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "__Secure-ROLLOUT_TOKEN",
+        "domain": ".youtube.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "JSESSIONID",
+        "domain": ".uk.linkedin.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "lang",
+        "domain": ".linkedin.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "enwikimwuser-sessionId",
+        "domain": "en.wikipedia.org",
+        "original_category": "functional"
+      },
+      {
+        "name": "tt_csrf_token",
+        "domain": ".tiktok.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "tt_chain_token",
+        "domain": ".tiktok.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "msToken",
+        "domain": "www.tiktok.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "sessionFunnelEventLogged",
+        "domain": "www.pinterest.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "intercom-session-r2v7ynki",
+        "domain": ".gymshark.com",
+        "original_category": "functional"
+      },
+      {
+        "name": "StyliticsSessionID",
+        "type": "localStorage",
+        "original_category": "functional"
+      }
+    ],
+    "consent": [
+      {
+        "name": "bcookie",
+        "domain": ".linkedin.com",
+        "original_category": "consent"
+      },
+      {
+        "name": "bscookie",
+        "domain": ".uk.linkedin.com",
+        "original_category": "consent"
+      },
+      {
+        "name": "OptanonConsent",
+        "domain": ".gymshark.com",
+        "original_category": "consent"
+      },
+      {
+        "name": "OptanonAlertBoxClosed",
+        "domain": ".gymshark.com",
+        "original_category": "consent"
+      }
+    ],
+    "security": [
+      {
+        "name": "__cf_bm",
+        "domain": ".twitter.com",
+        "original_category": "security"
+      },
+      {
+        "name": "_cfuvid",
+        "domain": ".discord.com",
+        "original_category": "security"
+      }
+    ],
+    "unknown": [
+      {
+        "name": "_shopify_essential",
+        "domain": "gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "localization",
+        "domain": "us.checkout.gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_shopify_y",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_shopify_s",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_shopify_analytics",
+        "domain": "us.checkout.gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_shopify_marketing",
+        "domain": "us.checkout.gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "gs-experiment-id",
+        "domain": "www.gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dd_s",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dy_soct",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "mprtcl-v4_98FE4316",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_ALGOLIA",
+        "domain": "www.gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "datr",
+        "domain": ".facebook.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "sb",
+        "domain": ".facebook.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "wd",
+        "domain": ".facebook.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "guest_id_marketing",
+        "domain": ".twitter.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "guest_id_ads",
+        "domain": ".twitter.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "personalization_id",
+        "domain": ".twitter.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "guest_id",
+        "domain": ".twitter.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "gt",
+        "domain": ".x.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "__cuid",
+        "domain": ".x.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ig_did",
+        "domain": ".instagram.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ig_nrcb",
+        "domain": ".instagram.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "mid",
+        "domain": ".instagram.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "GPS",
+        "domain": ".youtube.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "YSC",
+        "domain": ".youtube.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "VISITOR_INFO1_LIVE",
+        "domain": ".youtube.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "VISITOR_PRIVACY_METADATA",
+        "domain": ".youtube.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "PREF",
+        "domain": ".youtube.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "__Secure-YNID",
+        "domain": ".youtube.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "lidc",
+        "domain": ".linkedin.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "WMF-Last-Access",
+        "domain": "en.wikipedia.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "WMF-Last-Access-Global",
+        "domain": ".wikipedia.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "WMF-DP",
+        "domain": "en.wikipedia.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "GeoIP",
+        "domain": ".wikipedia.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "NetworkProbeLimit",
+        "domain": "en.wikipedia.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "WMF-Uniq",
+        "domain": ".wikipedia.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_routing_id",
+        "domain": "uk.pinterest.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_auth",
+        "domain": ".pinterest.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ps_l",
+        "domain": ".facebook.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ps_n",
+        "domain": ".facebook.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "g_state",
+        "domain": "x.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttwid",
+        "domain": ".tiktok.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "tiktok_webapp_theme_source",
+        "domain": ".www.tiktok.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "tiktok_webapp_theme",
+        "domain": ".www.tiktok.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_pxvid",
+        "domain": ".protechts.net",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_px3",
+        "domain": ".protechts.net",
+        "original_category": "unknown"
+      },
+      {
+        "name": "pxcts",
+        "domain": ".protechts.net",
+        "original_category": "unknown"
+      },
+      {
+        "name": "NID",
+        "domain": ".google.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "__dcfduid",
+        "domain": "discord.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "__sdcfduid",
+        "domain": "discord.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_ttp",
+        "domain": ".tiktok.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_axwrt",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "axcrt",
+        "domain": ".applovin.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "mParticleCustomFlags",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ax_visitor",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "intercom-id-r2v7ynki",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "intercom-device-id-r2v7ynki",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ar_debug",
+        "domain": ".pinterest.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C9BAFCJC77U9N0P9DF70",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C64G4JSGJNOBIGP7ATP0",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C64LJ4SGJNOBIGP7BQ70",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C2IILHVMU8QAJ3JEPIBG",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C64LKHSGJNOBIGP7BQCG",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C2IIM27MU8QAJ3JEPICG",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C2IIL1IQV140ORDJ7O0G",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ttcsid_C8PM4U59481U83L7JFP0",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ad-id",
+        "domain": ".amazon-adsystem.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "ad-privacy",
+        "domain": ".amazon-adsystem.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dyid",
+        "domain": ".gymshark.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "TDID",
+        "domain": ".adsrvr.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "TDCPM",
+        "domain": ".adsrvr.org",
+        "original_category": "unknown"
+      },
+      {
+        "name": "audit_p",
+        "domain": ".rubiconproject.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "khaos",
+        "domain": ".rubiconproject.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "khaos_p",
+        "domain": ".rubiconproject.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "audit",
+        "domain": ".rubiconproject.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "XANDR_PANID",
+        "domain": ".adnxs.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "uuid2",
+        "domain": ".adnxs.com",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dy_soct",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "mprtcl-tos-98FE4316",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "lastExternalReferrerTime",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "mprtcl-v4_98FE4316-id-cache",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "braze-feature-store",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dy_csc",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "lastExternalReferrer",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "mParticle-engagement-count",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "product-store",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "algoliasearch-client-js-4.19.1-2DEAES0CUO",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "mprtcl-v4_98FE4316-batches",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_applovin_pixel_version",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "intercom.intercom-state-r2v7ynki",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dyid",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dy_att_exps",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dy_tsrc",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dyexps",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dyaud_page",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dycst",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dyaud_nchc",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "_dy_device",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "intercom.intercom-state-r2v7ynki-hc2237061",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "i18nextLng",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "article-store",
+        "type": "localStorage",
+        "original_category": "unknown"
+      },
+      {
+        "name": "recently-searched-storage",
+        "type": "localStorage",
+        "original_category": "unknown"
+      }
+    ]
+  },
+  "gdpr_counts": {
+    "necessary": 0,
+    "analytics": 8,
+    "marketing": 8,
+    "functional": 14,
+    "consent": 4,
+    "security": 2,
+    "unknown": 105
+  },
+  "third_party_domains": [
+    "analytics.tiktok.com",
+    "bat.bing.com",
+    "c.albss.com",
+    "c.amazon-adsystem.com",
+    "cdn.cookielaw.org",
+    "connect.facebook.net",
+    "googleads.g.doubleclick.net",
+    "js.adsrvr.org",
+    "jssdkcdns.mparticle.com",
+    "res4.applovin.com",
+    "s.axon.ai",
+    "s.pinimg.com",
+    "static.intercomassets.com",
+    "widget.intercom.io",
+    "www.googletagmanager.com",
+    "www.redditstatic.com"
+  ],
+  "tracking_pixel_vendors": [
+    "Facebook",
+    "Google",
+    "Microsoft",
+    "Pinterest",
+    "Reddit",
+    "TikTok"
+  ],
+  "pre_consent_signals": [
+    "8 marketing cookies/localStorage items detected — potential pre-consent firing",
+    "Facebook Pixel detected — typically fires before consent banner",
+    "Google tracking (GA4/GTM) detected — typically fires before consent banner",
+    "TikTok Pixel detected — typically fires before consent banner"
+  ],
+  "risk_score": 7,
+  "risk_level": "HIGH",
+  "risk_factors": [
+    "8 marketing cookies",
+    "6 tracking pixel vendors",
+    "16 third-party data recipients",
+    "Multiple pre-consent tracking signals"
+  ]
+}
